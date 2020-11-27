@@ -1,0 +1,5 @@
+C:\Users\cordo\source\repos\WCF\WCFServicio\conversion\obj\Debug\conversion.csprojAssemblyReference.cache
+C:\Users\cordo\source\repos\WCF\WCFServicio\conversion\obj\Debug\conversion.Form1.resources
+C:\Users\cordo\source\repos\WCF\WCFServicio\conversion\obj\Debug\conversion.Properties.Resources.resources
+C:\Users\cordo\source\repos\WCF\WCFServicio\conversion\obj\Debug\conversion.csproj.GenerateResource.cache
+C:\Users\cordo\source\repos\WCF\WCFServicio\conversion\obj\Debug\conversion.csproj.CoreCompileInputs.cache

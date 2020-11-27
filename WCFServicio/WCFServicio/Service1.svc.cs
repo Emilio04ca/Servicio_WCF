@@ -15,15 +15,23 @@ namespace WCFServicio
         //string nombre = "";
         //Alumno alumno = new Alumno();
 
-        public Calificacion Obtenercalificacion(char letra)
+        public Calificacion Obtenercalificacion(string letra)
         {
-            if (letra == 'a' )
+            if (letra == "1")
             {
-                return new Calificacion() {Nombre = "Elizabeth", Materia = "medico forence", Numerode_control = 17030081 };
+                return new Calificacion() { Nombre = "Elizabeth Chacon", Carrera = "Medico Forence", Numerode_control = 17030081 };
             }
-            if (letra == 'b')
+            if (letra == "2")
             {
-                return new Calificacion() { Nombre = "Andrea", Materia = "administracion", Numerode_control = 17030083 };
+                return new Calificacion() { Nombre = "Andrea Curiel", Carrera = "Administracion", Numerode_control = 17030083 };
+            }
+            if (letra == "3")
+            {
+                return new Calificacion() { Nombre = "Carlos Cordova", Carrera = "Informatica", Numerode_control = 170300882 };
+            }
+            if (letra == "4")
+            {
+                return new Calificacion() { Nombre = "Omar Montoya", Carrera = "Albañil", Numerode_control = 17030085 };
             }
             else
             {
@@ -40,7 +48,12 @@ namespace WCFServicio
         {
             return Numero * Numero;
         }
-        
-       
+
+        public double Conversion(int Numero1)
+        {
+            return Numero1 * 20.5;
+
+        }
+
     }
 }

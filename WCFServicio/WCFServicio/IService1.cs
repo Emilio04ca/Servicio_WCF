@@ -16,10 +16,13 @@ namespace WCFServicio
             int ElvarNumeroAlCuadrado(int Numero);
         
         [OperationContract]
-            int RestaDeDosNumeros(int Numero1, int Numero2);
+        int RestaDeDosNumeros(int Numero1, int Numero2);
         
         [OperationContract]
-            Calificacion Obtenercalificacion(char letra);
+        double Conversion(int Numero1);
+
+        [OperationContract]
+        Calificacion Obtenercalificacion(string letra);
 
 
         // TODO: agregue aquí sus operaciones de servicio
@@ -32,7 +35,7 @@ namespace WCFServicio
         [DataMember]
         public int Numerode_control { get; set; }
         [DataMember]
-        public string Materia { get; set; }
+        public string Carrera { get; set; }
     }
 
     [DataContract] 

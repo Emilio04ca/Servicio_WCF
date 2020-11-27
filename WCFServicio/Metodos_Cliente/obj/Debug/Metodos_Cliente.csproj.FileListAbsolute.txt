@@ -1,0 +1,10 @@
+C:\Users\cordo\source\repos\WCF\WCFServicio\Metodos_Cliente\bin\Debug\Metodos_Cliente.exe.config
+C:\Users\cordo\source\repos\WCF\WCFServicio\Metodos_Cliente\bin\Debug\Metodos_Cliente.exe
+C:\Users\cordo\source\repos\WCF\WCFServicio\Metodos_Cliente\bin\Debug\Metodos_Cliente.pdb
+C:\Users\cordo\source\repos\WCF\WCFServicio\Metodos_Cliente\obj\Debug\Metodos_Cliente.csprojAssemblyReference.cache
+C:\Users\cordo\source\repos\WCF\WCFServicio\Metodos_Cliente\obj\Debug\Metodos_Cliente.Form1.resources
+C:\Users\cordo\source\repos\WCF\WCFServicio\Metodos_Cliente\obj\Debug\Metodos_Cliente.Properties.Resources.resources
+C:\Users\cordo\source\repos\WCF\WCFServicio\Metodos_Cliente\obj\Debug\Metodos_Cliente.csproj.GenerateResource.cache
+C:\Users\cordo\source\repos\WCF\WCFServicio\Metodos_Cliente\obj\Debug\Metodos_Cliente.csproj.CoreCompileInputs.cache
+C:\Users\cordo\source\repos\WCF\WCFServicio\Metodos_Cliente\obj\Debug\Metodos_Cliente.exe
+C:\Users\cordo\source\repos\WCF\WCFServicio\Metodos_Cliente\obj\Debug\Metodos_Cliente.pdb

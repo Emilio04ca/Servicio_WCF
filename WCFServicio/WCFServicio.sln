@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServicio", "WCFServicio\WCFServicio.csproj", "{921FB909-ADFA-4D78-A551-5AC56A29D02D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos_Cliente", "Metodos_Cliente\Metodos_Cliente.csproj", "{CBBB3C34-4B1B-4256-BF55-9DEF83579B48}"
+	ProjectSection(ProjectDependencies) = postProject
+		{921FB909-ADFA-4D78-A551-5AC56A29D02D} = {921FB909-ADFA-4D78-A551-5AC56A29D02D}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +20,10 @@ Global
 		{921FB909-ADFA-4D78-A551-5AC56A29D02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{921FB909-ADFA-4D78-A551-5AC56A29D02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{921FB909-ADFA-4D78-A551-5AC56A29D02D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBBB3C34-4B1B-4256-BF55-9DEF83579B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBB3C34-4B1B-4256-BF55-9DEF83579B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBB3C34-4B1B-4256-BF55-9DEF83579B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBB3C34-4B1B-4256-BF55-9DEF83579B48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
